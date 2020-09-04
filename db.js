@@ -1,4 +1,4 @@
 module.exports = {
-  url: "mongodb+srv://yoni:grupo5@cluster0.ibf0e.mongodb.net/rentappDB",
+  url: "",//aca va url de Mongo
   //url: "mongodb://localhost/testeo",
 };
